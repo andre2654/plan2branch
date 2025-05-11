@@ -1,0 +1,1 @@
+Branch MetaMask_SDK_Integration_19 criada automaticamente.
